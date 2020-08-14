@@ -78,7 +78,7 @@ def tik():
 
 
 back = 0
-Hacked 100% = []
+Ok = []
 Checkpoint = []
 oks = []
 id = []
